@@ -1,0 +1,8 @@
+﻿  DoAn_CNPM.cpp
+c:\users\hongocman\documents\visual studio 2015\projects\doan_cnpm\doan_cnpm\doan_cnpm.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\hongocman\documents\visual studio 2015\projects\doan_cnpm\doan_cnpm\doan_cnpm.cpp(42): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\hongocman\documents\visual studio 2015\projects\doan_cnpm\doan_cnpm\doan_cnpm.cpp(124): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hongocman\documents\visual studio 2015\projects\doan_cnpm\doan_cnpm\doan_cnpm.cpp(129): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hongocman\documents\visual studio 2015\projects\doan_cnpm\doan_cnpm\doan_cnpm.cpp(135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  DoAn_CNPM.vcxproj -> C:\Users\HoNgocMan\documents\visual studio 2015\Projects\DoAn_CNPM\Debug\DoAn_CNPM.exe
+  DoAn_CNPM.vcxproj -> C:\Users\HoNgocMan\documents\visual studio 2015\Projects\DoAn_CNPM\Debug\DoAn_CNPM.pdb (Full PDB)
